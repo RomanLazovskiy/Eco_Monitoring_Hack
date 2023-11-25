@@ -15,6 +15,5 @@
 
 Выходной формат файла .csv Пример:
 file_name	quantity_car	average_speed_car	quantity_van	average_speed_van	quantity_bus	average_speed_bus
-000.mp4	  0	            0	                3	            0	              10	          58.03547661108826
 
     
