@@ -13,7 +13,7 @@
  8. В переменную result_file_name укажите нужное вам название выходное файла.
  9. Запустите остальные ячейки ноутбука.
 
-Выходной формат файла .csv Пример:
-file_name	quantity_car	average_speed_car	quantity_van	average_speed_van	quantity_bus	average_speed_bus
+Выходной формат файла .csv будет состоять из колонок с такими именами:
+file_name	quantity_car, average_speed_car,	quantity_van,	average_speed_van	quantity_bus,	average_speed_bus.
 
     
